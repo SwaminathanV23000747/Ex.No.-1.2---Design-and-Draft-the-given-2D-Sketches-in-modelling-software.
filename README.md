@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EDM-exp02](https://github.com/SwaminathanV23000747/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/148931113/739df774-8268-4548-a7ca-3ab7b9f01b01)
+![Screenshot 2023-12-16 180535](https://github.com/SwaminathanV23000747/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/148931113/5775aa7c-6644-4c4d-83ee-4ea32a780631)
 
  
  ## RESULT
